@@ -48,7 +48,6 @@ public class PracticeProblem {
 		for (int i = 0;i < array.length;i++){
 			array[i].toLowerCase();
 		}
-
 		for (int i = 0;i < array.length;i++){
 			loops1++;
 		if (array[i].equals(text)){
